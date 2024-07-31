@@ -1,0 +1,262 @@
+location_id,city,neighborhood
+00704,Brooklyn,Kensington
+00705,Manhattan,Midtown
+00610,Manhattan,Harlem
+00611,Brooklyn,Clinton Hill
+00612,Manhattan,East Harlem
+00601,Manhattan,Murray Hill
+00631,Brooklyn,Bedford-Stuyvesant
+00602,Manhattan,Hell's Kitchen
+00603,Manhattan,Upper West Side
+00604,Manhattan,Chinatown
+00605,Manhattan,Upper West Side
+00703,Manhattan,Hell's Kitchen
+07093,Brooklyn,South Slope
+07675,Manhattan,Upper West Side
+07677,Manhattan,West Village
+07885,Brooklyn,Williamsburg
+07981,Brooklyn,Fort Greene
+07999,Manhattan,Chelsea
+08888,Brooklyn,Crown Heights
+08889,Manhattan,East Harlem
+07095,Brooklyn,Williamsburg
+07481,Brooklyn,Park Slope
+10451,Brooklyn,Park Slope
+10452,Brooklyn,Park Slope
+10453,Brooklyn,Bedford-Stuyvesant
+10454,Brooklyn,Windsor Terrace
+10455,Manhattan,Inwood
+10456,Manhattan,Hell's Kitchen
+10457,Manhattan,Inwood
+10458,Manhattan,East Village
+10459,Manhattan,Harlem
+10460,Manhattan,Harlem
+10461,Brooklyn,Greenpoint
+10462,Manhattan,Harlem
+10463,Brooklyn,Bedford-Stuyvesant
+10464,Brooklyn,South Slope
+10465,Brooklyn,Bedford-Stuyvesant
+10466,Brooklyn,Bushwick
+10467,Brooklyn,Flatbush
+10468,Manhattan,Lower East Side
+10469,Manhattan,East Village
+10470,Brooklyn,South Slope
+10471,Brooklyn,Fort Greene
+10472,Manhattan,Upper West Side
+10473,Manhattan,Harlem
+10474,Brooklyn,Prospect-Lefferts Gardens
+10475,Queens,Long Island City
+10499,Brooklyn,Bedford-Stuyvesant
+10001,Brooklyn,Bedford-Stuyvesant
+10002,Brooklyn,Fort Greene
+10003,Brooklyn,Bedford-Stuyvesant
+10004,Manhattan,Upper West Side
+10005,Brooklyn,Williamsburg
+10006,Brooklyn,Greenpoint
+10007,Manhattan,Kips Bay
+10008,Brooklyn,Williamsburg
+10009,Manhattan,Lower East Side
+10010,Manhattan,Hell's Kitchen
+10011,Brooklyn,Greenpoint
+10012,Manhattan,SoHo
+10013,Brooklyn,Williamsburg
+10014,Manhattan,Chelsea
+10016,Manhattan,Upper East Side
+10017,Brooklyn,Prospect Heights
+10018,Brooklyn,Clinton Hill
+10019,Manhattan,Hell's Kitchen
+10020,Brooklyn,Park Slope
+10021,Manhattan,East Village
+10022,Brooklyn,Williamsburg
+10023,Manhattan,East Village
+10024,Manhattan,East Harlem
+10025,Manhattan,East Village
+10026,Manhattan,Hell's Kitchen
+10027,Manhattan,Washington Heights
+10028,Brooklyn,Clinton Hill
+10029,Manhattan,East Village
+10030,Manhattan,Upper East Side
+10031,Queens,Woodside
+10032,Brooklyn,Fort Greene
+10033,Manhattan,Chelsea
+10034,Brooklyn,Williamsburg
+00613,Manhattan,Harlem
+00614,Manhattan,Lower East Side
+00714,Brooklyn,Flatbush
+00616,Manhattan,Lower East Side
+00617,Brooklyn,Brooklyn Heights
+00794,Brooklyn,Williamsburg
+00622,Manhattan,East Village
+00623,Manhattan,East Village
+00725,Brooklyn,Williamsburg
+00726,Brooklyn,Bushwick
+00727,Brooklyn,Prospect Heights
+00627,Brooklyn,Clinton Hill
+00729,Brooklyn,Prospect Heights
+00979,Brooklyn,Williamsburg
+00981,Brooklyn,Bushwick
+00982,Manhattan,Upper West Side
+00983,Manhattan,Harlem
+00984,Manhattan,Chelsea
+00985,Brooklyn,Bedford-Stuyvesant
+00986,Manhattan,Harlem
+00987,Brooklyn,Carroll Gardens
+00988,Manhattan,Washington Heights
+00736,Manhattan,West Village
+00737,Brooklyn,Williamsburg
+00735,Brooklyn,Park Slope
+00742,Brooklyn,Bedford-Stuyvesant
+00638,Brooklyn,Williamsburg
+00739,Manhattan,Harlem
+00769,Brooklyn,Gowanus
+00782,Manhattan,Hell's Kitchen
+00783,Brooklyn,Clinton Hill
+00780,Manhattan,East Village
+00775,Brooklyn,South Slope
+00646,Manhattan,East Village
+00647,Manhattan,Kips Bay
+00738,Brooklyn,Williamsburg
+00650,Manhattan,Upper West Side
+00652,Manhattan,East Village
+00653,Brooklyn,South Slope
+00784,Manhattan,Harlem
+00785,Brooklyn,South Slope
+00656,Manhattan,Upper West Side
+00965,Manhattan,East Village
+00966,Brooklyn,Prospect-Lefferts Gardens
+00968,Brooklyn,Williamsburg
+00969,Manhattan,Upper East Side
+00970,Manhattan,Washington Heights
+00971,Brooklyn,Bedford-Stuyvesant
+00778,Manhattan,Harlem
+00659,Brooklyn,Clinton Hill
+00660,Manhattan,East Village
+00791,Brooklyn,Greenpoint
+00792,Manhattan,Lower East Side
+00662,Manhattan,Hell's Kitchen
+00664,Manhattan,West Village
+00795,Brooklyn,Flatlands
+00777,Brooklyn,Clinton Hill
+00667,Brooklyn,Bedford-Stuyvesant
+00786,Brooklyn,Clinton Hill
+00669,Brooklyn,Greenpoint
+00670,Brooklyn,Williamsburg
+00771,Brooklyn,Cobble Hill
+00772,Queens,Flushing
+00773,Brooklyn,Bedford-Stuyvesant
+00674,Brooklyn,Williamsburg
+00606,Brooklyn,Williamsburg
+00707,Manhattan,East Village
+00636,Brooklyn,Williamsburg
+00680,Brooklyn,Fort Greene
+00681,Manhattan,West Village
+00682,Brooklyn,Prospect Heights
+00715,Brooklyn,Williamsburg
+00676,Brooklyn,Prospect Heights
+00687,Manhattan,East Harlem
+00718,Manhattan,West Village
+00719,Brooklyn,Williamsburg
+00720,Manhattan,Upper East Side
+00723,Brooklyn,Boerum Hill
+00624,Manhattan,Upper East Side
+00716,Brooklyn,Williamsburg
+00717,Queens,Sunnyside
+00728,Brooklyn,Bedford-Stuyvesant
+00730,Brooklyn,DUMBO
+00731,Manhattan,Upper East Side
+00732,Brooklyn,Gowanus
+00733,Manhattan,Harlem
+00734,Brooklyn,Clinton Hill
+00740,Brooklyn,Carroll Gardens
+00741,Staten Island,St. George
+00678,Brooklyn,Bushwick
+00677,Bronx,Highbridge
+00744,Brooklyn,Williamsburg
+00721,Manhattan,East Village
+00745,Manhattan,Financial District
+00637,Brooklyn,Fort Greene
+00688,Manhattan,West Village
+00952,Manhattan,Harlem
+00751,Manhattan,West Village
+00690,Manhattan,Harlem
+00683,Brooklyn,Fort Greene
+00901,Queens,Ridgewood
+00902,Manhattan,Morningside Heights
+00906,Brooklyn,Williamsburg
+00907,Brooklyn,Park Slope
+00908,Brooklyn,Bedford-Stuyvesant
+00909,Brooklyn,Prospect Heights
+00910,Manhattan,Upper East Side
+00911,Brooklyn,Bedford-Stuyvesant
+00912,Manhattan,Chelsea
+00913,Manhattan,Hell's Kitchen
+00914,Manhattan,Lower East Side
+00915,Brooklyn,South Slope
+00916,Manhattan,Upper East Side
+00917,Manhattan,Lower East Side
+00918,Manhattan,Chelsea
+00919,Queens,Jamaica
+00920,Manhattan,Hell's Kitchen
+00921,Brooklyn,Bedford-Stuyvesant
+00922,Queens,Middle Village
+00923,Queens,Ridgewood
+00924,Queens,Middle Village
+00925,Brooklyn,Williamsburg
+00926,Manhattan,Hell's Kitchen
+00927,Manhattan,Harlem
+00928,Brooklyn,Prospect Heights
+00929,Manhattan,Harlem
+00930,Bronx,Highbridge
+00931,Manhattan,East Harlem
+00933,Brooklyn,Williamsburg
+00934,Brooklyn,Bedford-Stuyvesant
+00935,Manhattan,NoHo
+00936,Manhattan,West Village
+00937,Brooklyn,Williamsburg
+00939,Brooklyn,Fort Greene
+00940,Manhattan,East Village
+00955,Brooklyn,Greenpoint
+00956,Manhattan,Harlem
+00957,Queens,Ditmars Steinway
+00958,Brooklyn,Cobble Hill
+00959,Manhattan,East Village
+00960,Manhattan,Hell's Kitchen
+00961,Manhattan,East Village
+00962,Manhattan,Flatiron District
+00963,Manhattan,Harlem
+00975,Manhattan,Harlem
+00976,Brooklyn,Windsor Terrace
+00977,Manhattan,Roosevelt Island
+00978,Manhattan,Lower East Side
+00754,Queens,Ridgewood
+00685,Brooklyn,Greenpoint
+00757,Manhattan,Chinatown
+00953,Manhattan,Midtown
+00954,Manhattan,SoHo
+00949,Manhattan,Greenwich Village
+00950,Manhattan,East Harlem
+00951,Manhattan,Harlem
+00641,Manhattan,Harlem
+00692,Manhattan,East Village
+00693,Manhattan,Upper West Side
+00694,Manhattan,East Harlem
+00765,Manhattan,Little Italy
+00766,Manhattan,Chelsea
+00767,Manhattan,Harlem
+00698,Manhattan,Chinatown
+00801,Manhattan,Midtown
+00802,Brooklyn,East Flatbush
+00803,Manhattan,East Village
+00804,Brooklyn,Bushwick
+00805,Staten Island,Tompkinsville
+00820,Staten Island,Tompkinsville
+00821,Staten Island,Tompkinsville
+00822,Manhattan,East Village
+00823,Manhattan,Chelsea
+00824,Brooklyn,Greenpoint
+00830,Brooklyn,Williamsburg
+00831,Staten Island,Tompkinsville
+00840,Queens,Astoria
+00841,Brooklyn,Kensington
+00850,Brooklyn,Park Slope
+00851,Bronx,Clason Point
